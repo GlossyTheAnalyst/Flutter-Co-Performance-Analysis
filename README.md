@@ -5,6 +5,11 @@ The goal of this project was to transform raw sales data into a visually engagin
 
 ## Dashboard Features and Key Metrics:
 
+
+
+![Dashboard 1 jpg](https://github.com/user-attachments/assets/6610f885-c1f8-4e29-81b8-c92321f167bb)
+
+
 #### 1. Revenue Summary:
 
 - Total Revenue: $435,036.16
